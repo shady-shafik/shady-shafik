@@ -7,9 +7,7 @@
   
   Gmail     ---  shadysmobarak@gmail.com
 
-  whatsApp ---   +2 01206508527
-  
-https://api.whatsapp.com/send?phone=+201206508527
+  whatsApp ---   https://api.whatsapp.com/send?phone=+201206508527
 
 <!---
 shady-shafik/shady-shafik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
