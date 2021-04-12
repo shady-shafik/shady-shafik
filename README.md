@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning wordpress and digital markiting
 - 💞️ I’m looking to collaborate on projects that affect people's life
 - 📫 How to reach me 
+
   facebook  ---  https://m.me/shady.mobaraq
   
   Gmail     ---  shadysmobarak@gmail.com
