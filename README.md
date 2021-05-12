@@ -5,11 +5,15 @@
 - 
 - 📫 How to reach me 
 
+  Linkedin  ---   https://www.linkedin.com/in/shady-shafik/
+  
   facebook  ---  https://m.me/shady.mobaraq
   
   Gmail     ---  shadysmobarak@gmail.com
 
   whatsApp ---   https://api.whatsapp.com/send?phone=+201206508527
+  
+  
 
 <!---
 shady-shafik/shady-shafik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
