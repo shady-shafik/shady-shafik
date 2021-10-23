@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shady-shafik
-- 👀 I’m interested in web development and Machine learning 
+- 👀 I’m interested in Machine learning, Data science, Statistics and Mathematics
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on projects that have positive effect on people's life.
 - 
