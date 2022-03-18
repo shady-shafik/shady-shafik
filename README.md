@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shady-shafik
-- 👀 I’m interested in Machine learning, Data science, Statistics and Mathematics.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on projects that have positive effect on people's life.
-- 
+- 👋 Hi, I’m @shady-shafik, algorithmic trader and content creator.
+
+- 👀 I’m interested in cryptocurrencies, Machine learning, Data science.
+
+
 - 📫 How to reach me 
 
   Linkedin  ---   https://www.linkedin.com/in/shady-shafik/
