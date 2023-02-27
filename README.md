@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @shady-shafik, algorithmic trader and content creator.
+- 👋 Hi, I’m @shady-shafik, Data Science and Machine learning content creator.
 
-- 👀 I’m interested in cryptocurrencies, Machine learning, Data science.
+- 👀 I’m interested in  Machine learning, Data science.
 
 
 - 📫 How to reach me 
 
-  Linkedin  ---   https://www.linkedin.com/in/shady-shafik/
-  
-  facebook  ---  https://m.me/shady.mobaraq
-  
+    
   Gmail     ---  shadysmobarak@gmail.com
 
   whatsApp ---   https://api.whatsapp.com/send?phone=+201206508527
