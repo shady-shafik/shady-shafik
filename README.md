@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shady-shafik, Data Science and Machine learning content creator.
+- 👋 Hi, I’m @shady-shafik, Mobile App Developer - Full-Stack Engineer.
 
-- 👀 I’m interested in  Machine learning, Data science.
+- 👀 I’m interested in Programming and Machine learning.
 
 
 - 📫 How to reach me 
