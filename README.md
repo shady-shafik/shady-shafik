@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shady-shafik, Mobile App Developer - Full-Stack Engineer.
+- 👋 Hi, I’m @shady-shafik Full-Stack Engineer.
 
 - 👀 I’m interested in Programming and Machine learning.
 
